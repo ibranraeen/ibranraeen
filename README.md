@@ -13,12 +13,12 @@
   </a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Akash09082001&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ibranraeen&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ---
 
 # 💫 About Me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>- 👋 Hi, I’m @Akash09082001<br>- 👀 I’m interested in software development, artificial intelligence, and gaming.<br>- 🌱 I’m currently learning machine learning algorithms and web development.<br>- 💞️ I’m looking to collaborate on open-source projects related to AI or game development.<br>- 📫 How to reach me: Feel free to email me at  or message me on GitHub.<br>- 😄 Pronouns: He/him<br>- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>- 👋 Hi, I’m @ibranraeen<br>- 👀 I’m interested in software development, artificial intelligence, and gaming.<br>- 🌱 I’m currently learning machine learning algorithms and web development.<br>- 💞️ I’m looking to collaborate on open-source projects related to AI or game development.<br>- 📫 How to reach me: Feel free to email me at  or message me on GitHub.<br>- 😄 Pronouns: He/him<br>- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
 ---
 
@@ -54,7 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 # 📊 GitHub Stats:
-<img src="https://raw.githubusercontent.com/Akash09082001/Akash09082001/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ibranraeen/ibranraeen/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash09082001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -68,13 +68,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akash09082001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ibranraeen&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akash09082001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ibranraeen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
